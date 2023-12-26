@@ -22,4 +22,6 @@ I'm on an 8-year journey to create the world's first fully neuromorphic neurochi
 ## 🤝 Let's Connect!
 Interested in neuromorphic computing, AI, or just want to chat about the latest in tech? Reach out to me at [konstantin.baltsat@gmail.com](mailto:konstantin.baltsat@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/baltsat/).
 
+Also my latest medal-notebook on [Classificaton for Networks on kaggle](https://www.kaggle.com/code/spredisbread/type-of-attack-detection).
+
 Looking forward to innovating, learning, and growing together in this exciting tech journey! 🌟
