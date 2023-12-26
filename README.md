@@ -22,4 +22,6 @@ I'm on an 8-year journey to create the world's first fully neuromorphic neurochi
 ## 🤝 Let's Connect!
 Interested in neuromorphic computing, AI, or just want to chat about the latest in tech?
 
+Also my latest medal-notebook on [Classificaton for Networks on kaggle](https://www.kaggle.com/code/spredisbread/type-of-attack-detection).
+
 Looking forward to innovating, learning, and growing together in this exciting tech journey! 🌟
