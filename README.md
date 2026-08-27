@@ -2,13 +2,6 @@
 
 I build the environments and graders that frontier models are trained and measured against — and I try to break them.
 
-Currently **LLM/RL R&D at Preference Model** (RL Environments team), working on ML-domain RL environments, hidden executable graders, reward-hacking checks and replayable judge traces for frontier coding and reasoning models. Previously production ML at Sber Robotics and T-Bank.
-
-- Terraform-managed distributed acquisition of large code corpora across network boundaries, feeding in-house training and SWE-bench Pro work
-- JAX/MaxText TPU training and eval flows; PyTorch/Transformers representation-transfer environments
-- Recommenders shipped to 40M+ users · TensorRT/DeepSpeed cut multinode runs 3.7× · rollout 6h → 5m
-- Adversarial robustness of multimodal models (CLIP, UAP attacks) as a Kaspersky scholar
-- Currently competing in Kaggle's *AI Agent Security — Multi-Step Tool Attacks*: chaining tool calls until an agent does something its operator never authorised
 
 ### Merged open-source contributions
 
