@@ -1,11 +1,22 @@
 ## Konstantin Baltsat
 
-I build the environments and graders that frontier models are trained and measured against — and I try to break them.
+I build RL environments for frontier models and agents that take over real company processes. Remote, any timezone.
 
+### What I build
+
+**RL environments and graders.** Tasks mined from frontier-model failure modes, hidden scorers, replayable judge traces, reward-hacking checks. Plus the data infra behind them: distributed scraping workers, cross-region code corpora, dedup and quality filters.
+
+**Agents for business processes.** A company brain that pulls finance, sales and ops data from 40+ connectors into one versioned store with access control. Consultant agents where every write waits for a human approval and numbers come only from verified tools. Every incoming stream (chats, calls, docs) digitized, every human decision point logged, and the recurring ones handed to agents. MCP servers, multi-agent swarms, agent memory.
+
+**ML in production.** Recommenders shipped to 40M+ users, LLM moderation and retrieval pipelines, robot recovery loops, checkpoint-to-service delivery cut from 6h to 5m.
+
+### Research
+
+[*HL-EAI: A Multimodal Framework Enabling Emotional Reciprocity in Human–AI Strategic Decision-Making*](https://dl.acm.org/doi/10.1145/3746027.3754468). Mozikov, Orekhov, Nasonov, Baltsat, et al., ACM Multimedia 2025. LLM agents and humans in dictator-game, GTBench and trolley-dilemma settings: how emotional cues change agent decisions, trust and cooperation.
 
 ### Merged open-source contributions
 
-Small, sharp fixes in other people's codebases — mostly parser, formatter and SDK correctness bugs.
+Small, sharp fixes in other people's codebases, mostly parser, formatter and SDK correctness bugs.
 
 | Project | Contribution |
 | --- | --- |
@@ -17,10 +28,4 @@ Small, sharp fixes in other people's codebases — mostly parser, formatter and 
 
 Open and under review: [undici #5601](https://github.com/nodejs/undici/pull/5601) (reject SharedArrayBuffer-backed body views), [oxc #25022](https://github.com/oxc-project/oxc/pull/25022), [pygments #3234](https://github.com/pygments/pygments/pull/3234).
 
-### Research
-
-*HL-EAI: A Multimodal Framework Enabling Emotional Reciprocity in Human–AI Strategic Decision-Making* — Mozikov, Baltsat, et al., accepted at ACMM'25. Multi-agent behaviour in dictator-game, GTBench and trolley-dilemma settings, at AI Research Institute & ITMO LISA Lab.
-
-MSc in Artificial Intelligence, ITMO University. BSc in Applied Computer Science, ITMO — Best Graduate 2024.
-
-Remote contractor · Python, C++, PyTorch, JAX/MaxText, Terraform
+BSc in Applied Computer Science, ITMO – Best Graduate 2024 · Python, C++, PyTorch, JAX, MCP, Terraform
