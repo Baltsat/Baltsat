@@ -1,6 +1,6 @@
 ## Konstantin Baltsat
 
-I build RL environments for frontier models and agents that take over real company processes. Remote, any timezone.
+I build RL environments for frontier models and agents that take over real company processes. 
 
 ### What I build
 
